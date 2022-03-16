@@ -7,6 +7,3 @@ ro.com.google.gmsversion=11_202101
 ro.com.google.rlz_ap_whitelist=YH
 ro.com.google.rlzbrandcode=HMDG
 ro.opa.eligible_device=true
-ro.setupwizard.rotation_locked=true
-setupwizard.feature.deferred_snooze_allow_never=true
-setupwizard.theme=glif_v3_light
