@@ -13,10 +13,10 @@ It was released in June 2019.
 | RAM                     | 2/3 GB                                                 |
 | Storage                 | 16/32 GB                                               |
 | Battery                 | Li-Ion 3000 mAh                                        |
-| Dimensions              | 146 x 70.6 x 9.3 mm                                    |
+| Dimensions              | 145.96 x 70.56 x 9.3 mm                                |
 | Display                 | IPS, 720 x 1520 pixels, 5.71 inches (~295 ppi density) |
-| Rear camera             | 13 MP (f/2.2, 1/3.1", 1.12µm, AF), LED flash           |
-| Front camera            | 5 MP, flash                                         |
+| Rear camera             | 13 MP (f/2.2, 1/3", 1.12µm, AF), LED flash             |
+| Front camera            | 5 MP, No flash                                         |
 | Shipped Android Version | 9.0                                                    |
 
 <img src="https://user-images.githubusercontent.com/67373913/158577759-0dcbbfea-f287-4f97-ab3b-74371bed9958.png" width="40%">
